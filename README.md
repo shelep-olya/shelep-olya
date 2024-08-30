@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-## About Me
 I am a beginner backend developer. I am open to everything new and I want to improve my knowledges all the time. I am passionate about learning new technologies and collaborating with teams to create high-quality products.
+
+## About Me
 
 ✨ Trying to be better every day
 
