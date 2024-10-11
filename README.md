@@ -27,9 +27,6 @@ I am a beginner backend developer. I am open to everything new and I want to imp
 - 🧠 Data Structures/Algorithms
 
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shelep-olya&show_icons=true&theme=radical)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelep-olya&layout=compact&theme=radical)
 
