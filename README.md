@@ -16,21 +16,9 @@ I am a beginner backend developer. I am open to everything new and I want to imp
 
 - 💻 JavaScript
 - 🟢 Node.js
-- 📦 TypeScript
-- 🚀 Nest.js
 - 🌐 Express.js
 - 🛠️ Git
 - 🍃 MongoDB
-- 🗄️ PostgreSQL
-- 📊 SQL
+- 🔭 React.js
 - 🏗️ Object-Oriented Programming (OOP)
 - 🧠 Data Structures/Algorithms
-
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelep-olya&layout=compact&theme=radical)
-
-### Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shelep-olya&theme=radical)
-
-
