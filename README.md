@@ -19,8 +19,8 @@ I am a passionate UX/UI designer and frontend developer with a strong foundation
 ### Design Tools  
 <img src="https://cdn.simpleicons.org/figma/ff7262" alt="Figma" width="30" height="30" />&nbsp;
 <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="30" height="30" />&nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" width="30" height="30" />&nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" width="30" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="30" height="30" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="30" height="30" />&nbsp;
 
 ### Frontend Development  
 <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="30" height="30" />&nbsp;
