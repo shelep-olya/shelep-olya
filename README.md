@@ -14,8 +14,6 @@ I am a passionate UX/UI designer and frontend developer with a strong foundation
 
 ## Current Technology Stack
 
-## Current Technology Stack
-
 ### Design Tools  
 <img src="https://cdn.simpleicons.org/figma/ff7262" alt="Figma" width="30" height="30" />&nbsp;
 <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="30" height="30" />&nbsp;
