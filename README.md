@@ -14,21 +14,24 @@ I am a passionate UX/UI designer and frontend developer with a strong foundation
 
 ## Current Technology Stack
 
+## Current Technology Stack
+
 ### Design Tools  
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=FF7262)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)  
+<img src="https://cdn.simpleicons.org/figma/ff7262" alt="Figma" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" width="30" height="30" />
 
 ### Frontend Development  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)  
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/sass/CC6699" alt="SCSS" width="30" height="30" />
 
 ### Backend (Basics)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/express" alt="Express" width="30" height="30" />&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="30" height="30" />
+
 
